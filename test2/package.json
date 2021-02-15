@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "mongoose": "^5.11.16",
+    "npm-hello-1": "^1.0.0",
     "underscore": "^1.12.0"
   }
 }
